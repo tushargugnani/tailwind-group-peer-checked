@@ -1,0 +1,26 @@
+{
+  "name": "@tushargugnani/tailwind-group-peer-checked",
+  "version": "1.0.0",
+  "description": "A tailwindcss utility class that allows styling a group of parent-child elements when radio / checkbox checked-unchecked, instead of just sibling element",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tushargugnani/tailwind-group-peer-checked.git"
+  },
+  "keywords": [
+    "tailwind css",
+    "group peer checked"
+  ],
+  "author": "Tushar Gugnani",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  },
+  "bugs": {
+    "url": "https://github.com/tushargugnani/tailwind-group-peer-checked/issues"
+  },
+  "homepage": "https://github.com/tushargugnani/tailwind-group-peer-checked#readme"
+}
