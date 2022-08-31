@@ -33,4 +33,4 @@ module.exports = {
 </div>
 ```
 
-https://play.tailwindcss.com/ZC4izNGYMq
+https://play.tailwindcss.com/DPuOY8scDY
