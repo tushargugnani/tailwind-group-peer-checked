@@ -32,3 +32,5 @@ module.exports = {
      </div>
 </div>
 ```
+
+https://play.tailwindcss.com/ZC4izNGYMq
